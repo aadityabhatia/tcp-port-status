@@ -1,0 +1,36 @@
+{
+  "name": "tcp-port-status",
+  "version": "1.0.0",
+  "description": "Checks the status of a TCP port",
+  "main": "main.js",
+  "scripts": {
+    "prepublish": "coffee -c .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadityabhatia/tcp-port-status.git"
+  },
+  "keywords": [
+    "port",
+    "check",
+    "scan",
+    "scanner",
+    "TCP",
+    "IP",
+    "server",
+    "socket",
+    "remote",
+    "host",
+    "status",
+    "online",
+    "reachable",
+    "promise"
+  ],
+  "author": "Aaditya Bhatia <aadityabhatia@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aadityabhatia/tcp-port-status/issues"
+  },
+  "homepage": "https://github.com/aadityabhatia/tcp-port-status#readme"
+}
