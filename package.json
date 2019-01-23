@@ -1,6 +1,6 @@
 {
   "name": "tcp-port-status",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks the status of a TCP port",
   "main": "main.js",
   "scripts": {
